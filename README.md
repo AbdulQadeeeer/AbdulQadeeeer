@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadeeeer&show_icons=true&locale=en" alt="abdulqadeeeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadeeeer&" alt="abdulqadeeeer" /></p>
-https://raw.githubusercontent.com/AbdulQadeeeer/AbdulQadeeeer/output/github-contribution-grid-snake-dark.svg
+https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg
