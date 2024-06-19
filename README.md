@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [90-Days of web developement course](https://abdulqadeeeer.github.io/code-with-infinitie-dev/)
 
-- 🌱 I’m currently learning  **java**
+- 🌱 I’m currently learning **java,**
 - 📫 How to reach me **rabdulqadeer96@gmail.com**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
