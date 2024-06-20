@@ -17,15 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+<a href="https://linkedin.com/in/abdul-qadeer-59b420311" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@infinitiedev" target="blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 <p align="left">
 <a href="https://dev.to/abdul-qadeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdul-qadeer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-qadeer-59b420311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-qadeer-59b420311" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25615546/abdul-qadeer?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25615546/abdul-qadeer?tab=profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with infinitie dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with infinitie dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdul-qadeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-qadeer" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/pJkS2EbK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pJkS2EbK" height="30" width="40" /></a>
 </p>
