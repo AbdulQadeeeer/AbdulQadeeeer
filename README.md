@@ -13,9 +13,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br><br><br><br><br><br><br><br><br>
-<img src="https://raw.githubusercontent.com/AbdulQadeeeer/AbdulQadeeeer/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/abdul-qadeer-59b420311" target="blank">
@@ -42,4 +41,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadeeeer&show_icons=true&locale=en&layout=compact" alt="abdulqadeeeer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadeeeer&show_icons=true&locale=en" alt="abdulqadeeeer" /></p>
-
