@@ -114,7 +114,7 @@
   <img alt="Animated line image" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="max-width: 100%; display: inline-block;">
 </p>
 
-<h1>Skills</h1>
+<h1 style="width: 40px; max-width: 100%; display: inline-block;">Skills</h1>
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" alt="Skills animation" style="width: 40px; max-width: 100%; display: inline-block;">
 </p>
