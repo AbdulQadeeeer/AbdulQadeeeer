@@ -27,8 +27,8 @@
 <p dir="auto">🎓 &nbsp; A 100% scholar in CS, I've played a crucial role as a maintainer &amp; contributor of <a href="https://autopartify.com/">autopartify</a> to turn it into an open source success story.</p>
 <p dir="auto">🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord &amp; WhatsApp.</p>
 <p dir="auto">🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow <code>"1% every day"</code> on <a href="https://twitter.com/" rel="nofollow">Twitter</a> and <a href="https://www.linkedin.com/in/" rel="nofollow">LinkedIn</a>. Be sure to follow me there for daily insightful tips!</p>
-<p dir="auto">🏆 &nbsp; I secured <a href="https://gssoc.girlscript.tech/leaderboard" rel="nofollow">11th Rank</a> in GSSoC'23 (contributor) with 100+ PRs, did mentoring for <a href="https://github.com/WebXDAO/WebXDAO.github.io">WebXDAO</a>, and created content as a core team member (GSSoC'23 Team) for <em>200k+</em> audiences.</p>
-<p dir="auto">🎯 &nbsp; I built <a href="https://designlyfe.tech/" rel="nofollow">designlyfe.tech</a> in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks <a href="https://buildspace.so/s4/demoday/designlyfe" rel="nofollow">here</a>. You can also check my <a href="https://www.producthunt.com/posts/awesome-illustrations-for-projects" rel="nofollow">open source resource</a> on Product Hunt that received <em>50+</em> upvotes.</p>
+<p dir="auto">🏆 &nbsp; I secured <a href="https://gssoc.girlscript.tech/" rel="nofollow">11th Rank</a> in GSSoC'23 (contributor) with 100+ PRs, did mentoring for <a href="https://github.com/">WebXDAO</a>, and created content as a core team member (GSSoC'23 Team) for <em>200k+</em> audiences.</p>
+<p dir="auto">🎯 &nbsp; I built <a href="https://designlyfe.tech/" rel="nofollow">designlyfe.tech</a> in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks <a href="https://buildspace.so/" rel="nofollow">here</a>. You can also check my <a href="https://www.producthunt.com/" rel="nofollow">open source resource</a> on Product Hunt that received <em>50+</em> upvotes.</p>
 <p dir="auto">😄 &nbsp; Besides that, I participate in hackathons (won 7+ competitions), make side projects, brainstorm ideas, and keep learning new stuff :)</p>
 </div>
 <br>
@@ -38,7 +38,7 @@
 <p dir="auto">💜 Competition Zone</p>
 <ul dir="auto">
 <li>#11 in GSSoC'23 with 100+ PRs.</li>
-<li>Won the Best Beginner Hack in <a href="https://ingenious-hackathon-4-d6bc.devfolio.co/projects" rel="nofollow">Ingenious Hackathon 5.0</a>.</li>
+<li>Won the Best Beginner Hack in <a href="https://ingenious-hackathon-4-d6bc.devfolio.co/" rel="nofollow">Ingenious Hackathon 5.0</a>.</li>
 <li>Finalist in Manthan, a nationwide competition organized by the <em>Ministry of Education Innovation Cell</em>.</li>
 <li>3rd Rank in a <em>Avenues 21</em> conducted by <em>SJMSOM</em> and <em>IIT Bombay</em> on the topic of Vigilance Awareness.</li>
 <li>Top 10 in the national event <em>Smartcase</em> and got a chance to submit Research Proposal.</li>
@@ -48,25 +48,25 @@
 <li>3rd prize in <em>The Social Variable</em> powered by <em>Connecting Dreams Foundations</em> and <em>Amazon Web Services</em> in a national competition comprising four rounds.</li>
 <li>Finalist in the designathon competition conducted by <em>Delhi Technological University</em>.</li>
 <li>2nd Prize in Coding Treasure Hunt at college.</li>
-<li>1st Prize in <a href="https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing" rel="nofollow">chess</a> competition at college. I enjoy playing chess :)</li>
+<li>1st Prize in <a href="https://drive.google.com/" rel="nofollow">chess</a> competition at college. I enjoy playing chess :)</li>
 <li>1200 Rank in National Coding Competition <em>Accio-Wars</em></li>
 <li>Finalist in Ad-O-Mania, conducted by IIM Ranchi.</li>
 </ul>
 <p dir="auto">💜 GitHub Zone</p>
 <ul dir="auto">
 <li><em>800+</em> Stars, participated in <em>500+</em> Discussions and <em>200+</em> Merged PRs.</li>
-<li>Active participant in GitHub Community discussions, answering <a href="https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered">35+ discussions</a>.</li>
-<li>Consistently ranked as one of the <em>top 5</em> Most Helpful members on the <a href="https://github.com/orgs/community/discussions">GitHub Community</a> discussions for almost a month.</li>
-<li>Recognized as a Top Contributor of <a href="https://www.linkshub.dev/contributors" rel="nofollow">LinksHub</a>.</li>
-<li>Open source maintainer of <a href="https://www.linkshub.dev/contributors" rel="nofollow">LinksHub</a> with 600+ Stars and 2000+ PRs on GitHub.</li>
-<li>Mentor of <a href="https://github.com/WebXDAO/WebXDAO.github.io">WebXDAO</a> under GSSoC'23.</li>
+<li>Active participant in GitHub Community discussions, answering <a href="https://github.com/">35+ discussions</a>.</li>
+<li>Consistently ranked as one of the <em>top 5</em> Most Helpful members on the <a href="https://github.com/">GitHub Community</a> discussions for almost a month.</li>
+<li>Recognized as a Top Contributor of <a href="https://www.linkshub.dev/" rel="nofollow">LinksHub</a>.</li>
+<li>Open source maintainer of <a href="https://www.linkshub.dev/" rel="nofollow">LinksHub</a> with 600+ Stars and 2000+ PRs on GitHub.</li>
+<li>Mentor of <a href="https://github.com/">WebXDAO</a> under GSSoC'23.</li>
 </ul>
 <p dir="auto">💜 Proud Zone</p>
 <ul dir="auto">
 <li>Part of the Super 30 Batch, availing a 100% scholarship for pursuing B.Tech CSE (3 students in the entire college)</li>
-<li><em>6k+</em> reputation on <a href="https://app.daily.dev/Anmol-Baranwal" rel="nofollow">Daily.dev</a>.</li>
+<li><em>6k+</em> reputation on <a href="https://app.daily.dev/" rel="nofollow">Daily.dev</a>.</li>
 <li>Worked with 7+ international teams during the past 2 years.</li>
-<li>Gained more than 10k followers under 3 months on <a href="https://dev.to/anmolbaranwal" rel="nofollow">dev.to/anmolbaranwal</a>.</li>
+<li>Gained more than 10k followers under 3 months on <a href="https://dev.to/" rel="nofollow">dev.to/</a>.</li>
 <li>Achieved 50 upvotes on my Product Hunt Launch.</li>
 </ul>
 </details>
@@ -83,23 +83,23 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the GitHub Community <br><br> <a href="https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c" rel="nofollow">A complete guide to open source - 100x simpler</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" style="max-width: 100%;"></a></td>
+<td align="left">✧ Featured in the GitHub Community <br><br> <a href="#" rel="nofollow">A complete guide to open source - 100x simpler</a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90" alt="Make your portfolio in just 4 hours" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> <a href="https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3" rel="nofollow">Make your portfolio in just 4 hours? It's possible</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90" alt="Make your portfolio in just 4 hours" width="700" style="max-width: 100%;"></a></td>
+<td align="left">✧ Featured in the Top 7 <br><br> <a href="#" rel="nofollow">Make your portfolio in just 4 hours? It's possible</a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> <a href="https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje" rel="nofollow">🎁 Shortcut to Find Open Source Projects 100x faster</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" style="max-width: 100%;"></a></td>
+<td align="left">✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> <a href="#" rel="nofollow">🎁 Shortcut to Find Open Source Projects 100x faster</a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b" alt="12 things you didn't know you could do with DEV" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> <a href="https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041" rel="nofollow">😁12 things you didn't know you could do with DEV</a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b" alt="12 things you didn't know you could do with DEV" width="700" style="max-width: 100%;"></a></td>
+<td align="left">✧ Featured in the Top 7 <br><br> <a href="#" rel="nofollow">😁12 things you didn't know you could do with DEV</a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/f3b13dba-4639-4d93-b4fa-8a1de92cbea0"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/f3b13dba-4639-4d93-b4fa-8a1de92cbea0" alt="30+ app ideas with complete source code" width="700" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="#" alt="30+ app ideas with complete source code" width="700" style="max-width: 100%;"></a></td>
 <td align="left">✧ Reached 40k+ Views <br><br> <a href="https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76" rel="nofollow">30+ app ideas with complete source code</a></td>
 </tr>
 </tbody>
