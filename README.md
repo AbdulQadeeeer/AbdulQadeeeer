@@ -386,7 +386,8 @@
 <thead>
 <tr>
 <th><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=najam015&show_icons=true&locale=en" alt="najam015" /></p></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db28060695c291f6f1d7e0e5957d8199bc024d17dcdd8ac7b555ed1e6905d54a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416e6d6f6c2d426172616e77616c267468656d653d746f6b796f6e69676874267468656d653d6963656772617926626f726465725f7261646975733d38"><img src="https://camo.githubusercontent.com/db28060695c291f6f1d7e0e5957d8199bc024d17dcdd8ac7b555ed1e6905d54a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416e6d6f6c2d426172616e77616c267468656d653d746f6b796f6e69676874267468656d653d6963656772617926626f726465725f7261646975733d38" alt="Anmol Baranwal GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&amp;theme=tokyonight&amp;theme=icegray&amp;border_radius=8" style="max-width: 100%;"></a></th>
+<th><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+</th>
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
