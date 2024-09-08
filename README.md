@@ -71,19 +71,6 @@
 </ul>
 </details>
 <br>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Latest Blog Posts</h2><a id="user-content-latest-blog-posts" class="anchor" aria-label="Permalink: Latest Blog Posts" href="#latest-blog-posts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a href="https://dev.to/anmolbaranwal" rel="nofollow"><img src="https://camo.githubusercontent.com/9f261cffd89ec38be7a29e57b39ce471d2fdfe0668ad61a91f55e048511fbfd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d646576646f74746f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" style="max-width: 100%;"></a><br></p>
-
-<ul dir="auto">
-<li><a href="https://dev.to/requestly/how-to-build-frontend-apps-10x-faster-36ib" rel="nofollow">How to Build Frontend Apps 10x Faster</a></li>
-<li><a href="https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac" rel="nofollow">How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡</a></li>
-<li><a href="https://dev.to/anmolbaranwal/make-your-app-10x-secure-with-arcjet-protection-layer-20fj" rel="nofollow">Make your App 10x Secure with Arcjet Protection Layer</a></li>
-<li><a href="https://dev.to/copilotkit/17-iconic-projects-for-your-portfolio-5e5e" rel="nofollow">17 Iconic Projects to Build Up Your Portfolio 💼 🚀🦾</a></li>
-<li><a href="https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0" rel="nofollow">Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡</a></li>
-<li><a href="https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n" rel="nofollow">17 Most Powerful AI Tools for Developers</a></li>
-</ul>
-
-<br>
 <blockquote>
 <p dir="auto">Some of the top-performing posts that I recommend you to read.</p>
 </blockquote>
@@ -123,11 +110,12 @@
 <br>
 <hr>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19ea38aacce48d9eab001025561825837aef9d2a3c644a11bed05b80a538baf2/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d416e6d6f6c2d426172616e77616c2662675f636f6c6f723d31363162323226636f6c6f723d666666666666266c696e653d64356435643526706f696e743d61373663366326617265613d7472756526686964655f626f726465723d7472756526686964655f7469746c653d74727565"><img src="https://camo.githubusercontent.com/19ea38aacce48d9eab001025561825837aef9d2a3c644a11bed05b80a538baf2/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d416e6d6f6c2d426172616e77616c2662675f636f6c6f723d31363162323226636f6c6f723d666666666666266c696e653d64356435643526706f696e743d61373663366326617265613d7472756526686964655f626f726465723d7472756526686964655f7469746c653d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&amp;bg_color=161b22&amp;color=ffffff&amp;line=d5d5d5&amp;point=a76c6c&amp;area=true&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;"></a></p>
-<p dir="auto"><animated-image data-catalyst="" style="width: 1920px;">
+
+<p dir="auto"><animated-image data-catalyst="" style="max-width: 100%">
         <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 100%; display: inline-block;"/>
+          <img data-target="animated-image.replacedImage" alt="68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" style="max-width: 100%; display: inline-block;"/>
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="1"></canvas>
-          </span>
+        </span>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
           <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
