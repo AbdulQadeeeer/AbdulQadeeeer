@@ -386,7 +386,7 @@
 <thead>
 <tr>
 <th><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=najam015&show_icons=true&locale=en" alt="najam015" /></p></th>
-<th><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+<th><p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=najam015&" alt="najam015" /></p>
 </th>
 </tr>
 </thead>
