@@ -213,7 +213,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false" alt="najam015" /></a> </p>
+<p align="cente"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false" alt="najam015" /></a> </p>
 </td>
 <td align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
@@ -267,18 +267,6 @@
   <a href="https://twitter.com/Anmol_Codes" rel="nofollow"><img src="https://camo.githubusercontent.com/966d6ce3a89d5f9d61cd8c9f644b41df1b6710467e69cbdb038483c68732979e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d304130323039" alt="Anmol_Codes" data-canonical-src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&amp;logo=x&amp;logoColor=0A0209" style="max-width: 100%;"></a>
 </div>
 <hr>
-
-
-
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png"><img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" style="max-width: 100%;"></a> Sponsor me</h1><a id="user-content--sponsor-me" class="anchor" aria-label="Permalink:  Sponsor me" href="#-sponsor-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<blockquote>
-<p dir="auto">I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the <a href="https://github.com/sponsors/Anmol-Baranwal">sponsors page</a> for further details.</p>
-</blockquote>
-<br>
-<p dir="auto"><a href="https://github.com/sponsors/Anmol-Baranwal"><img src="https://camo.githubusercontent.com/92ef7f3c2faba7626e346c45496486f2126f1ab3d86d72920b5ff21a69401d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f6e736f722d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d4769744875622d53706f6e736f7273266c6f676f436f6c6f723d304130323039" data-canonical-src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&amp;logo=GitHub-Sponsors&amp;logoColor=0A0209" style="max-width: 100%;"></a>
-<a href="https://www.buymeacoffee.com/anmolbaranwal" rel="nofollow"><img src="https://camo.githubusercontent.com/0f4e9a4a97901a9a1e1eef865a31de0da81a0589c05da77fb2395a9377b7e4b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275795f4d655f415f436f666665652d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d304130323039" data-canonical-src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=0A0209" style="max-width: 100%;"></a>
-<a href="https://anmolbaranwal.gumroad.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/4e0715626080c9af24d480816fff73b14825b6220abe8c7e13ebc58f92d18cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47554d524f41442d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d67756d726f6164266c6f676f436f6c6f723d304130323039" data-canonical-src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&amp;logo=gumroad&amp;logoColor=0A0209" style="max-width: 100%;"></a></p>
-<p dir="auto"><br><br></p>
 
 
 
