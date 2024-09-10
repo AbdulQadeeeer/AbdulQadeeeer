@@ -208,17 +208,17 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.notable.contributions.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td align="center">Achievements</td>
+<td align="center">Discussions</td>
 <td align="center">Language Activity</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="najam015" /></a> </p>
+<p align="left"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false" alt="najam015" /></a> </p>
 </td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.languages.activity.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.languages.activity.svg" alt="Language Activity" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td align="center">Discussions</td>
+<td align="center">Achievements</td>
 <td align="center">Reactions</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
 </td>
 <td align="center">
-add here
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4 " alt="najam015" /></p>
 </td>
 </tr>
 </tbody>
