@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/najam015" rel="nofollow"><img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="profile of LinkedIn with username najam015" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;"></a>
   <a href="mailto:najam.ahmad015@gmail.com"><img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="email of Anmol i.e.   hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;"></a>
   <a href="https://discordapp.com/users/776749637826117640" rel="nofollow"><img src="https://camo.githubusercontent.com/fb608030556aa7153f39a4912f1b6db2ad19782633e395eb69ef9d22c6dbda33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d304130323039" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" data-canonical-src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&amp;logo=discord&amp;logoColor=0A0209" style="max-width: 100%;"></a>
-  <a href="https://twitter.com/Anmol_Codes" rel="nofollow"><img src="https://camo.githubusercontent.com/966d6ce3a89d5f9d61cd8c9f644b41df1b6710467e69cbdb038483c68732979e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d304130323039" alt="profile of Twitter with username Anmol_Codes" data-canonical-src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&amp;logo=x&amp;logoColor=0A0209" style="max-width: 100%;"></a>
+  <a href="https://x.com/najam015" rel="nofollow"><img src="https://camo.githubusercontent.com/966d6ce3a89d5f9d61cd8c9f644b41df1b6710467e69cbdb038483c68732979e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d304130323039" alt="profile of Twitter with username najam015" data-canonical-src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&amp;logo=x&amp;logoColor=0A0209" style="max-width: 100%;"></a>
 </div>
 <br>
 
@@ -21,11 +21,11 @@
 <p dir="auto">👋 Hi! I'm Najam Ahmed , a full-stack developer from Pakistan, super into Open Source, and working as a Technical writer for international brands.</p>
 <p dir="auto">🔥 I have worked with more than 8 international teams like <a href="https://github.com/dreamslab-us">dreamslab</a>, <a href="https://autopartify.com/">autopartify</a>, <a href="https://github.com/winglang/wing">Wing</a>, <a href="https://github.com/latitude-dev/latitude">Latitude</a>, reaching an audience of over <em>350k</em>. If you need a technical writer, DM me on Twitter or LinkedIn.</p>
 <p dir="auto">📈 &nbsp; I'm also building my community for open source developers and technical writers at <a href="https://discord.gg/49PBDrtr" rel="nofollow">dub.sh/penduDev</a>.</p>
-<p dir="auto">🔖 &nbsp; As a top author on <a href="https://dev.to/anmolbaranwal" rel="nofollow">dev.to/anmolbaranwal</a>, my content has been featured in prestigious communities like GitHub, resulting in a follower base of over <em>30k+</em> within 6 months.</p>
+<p dir="auto">🔖 &nbsp; As a top author on <a href="https://dev.to/" rel="nofollow">dev.to/</a>, my content has been featured in prestigious communities like GitHub, resulting in a follower base of over <em>30k+</em> within 6 months.</p>
 <p dir="auto">🚀 &nbsp; I've established myself in the <a href="#">Top 5%</a> of GitHub by contributing to <em>40+</em> projects with <em>200+</em> Pull Requests, participating in <em>500+</em> discussions, and earning a lot of reputation.</p>
 <p dir="auto">🎓 &nbsp; A 100% scholar in CS, I've played a crucial role as a maintainer &amp; contributor of <a href="https://autopartify.com/">autopartify</a> to turn it into an open source success story.</p>
 <p dir="auto">🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord &amp; WhatsApp.</p>
-<p dir="auto">🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow <code>"1% every day"</code> on <a href="https://twitter.com/" rel="nofollow">Twitter</a> and <a href="https://www.linkedin.com/in/" rel="nofollow">LinkedIn</a>. Be sure to follow me there for daily insightful tips!</p>
+<p dir="auto">🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow <code>"1% every day"</code> on <a href="https://x.com/najam015" rel="nofollow">Twitter</a> and <a href="https://www.linkedin.com/in/" rel="nofollow">LinkedIn</a>. Be sure to follow me there for daily insightful tips!</p>
 <p dir="auto">🏆 &nbsp; I secured <a href="https://gssoc.girlscript.tech/" rel="nofollow">11th Rank</a> in GSSoC'23 (contributor) with 100+ PRs, did mentoring for <a href="https://github.com/">WebXDAO</a>, and created content as a core team member (GSSoC'23 Team) for <em>200k+</em> audiences.</p>
 <p dir="auto">🎯 &nbsp; I built <a href="https://designlyfe.tech/" rel="nofollow">designlyfe.tech</a> in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks <a href="https://buildspace.so/" rel="nofollow">here</a>. You can also check my <a href="https://www.producthunt.com/" rel="nofollow">open source resource</a> on Product Hunt that received <em>50+</em> upvotes.</p>
 <p dir="auto">😄 &nbsp; Besides that, I participate in hackathons (won 7+ competitions), make side projects, brainstorm ideas, and keep learning new stuff :)</p>
@@ -200,12 +200,13 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.followup.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.followup.svg" alt="Follow up Issues &amp; PRs" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td align="center">Leetcode Stats</td>
+<td align="center">GitHub Contributor Stars</td>
 <td align="center">Notable Contributions</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.leetcode.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.leetcode.svg" alt="Leetcode Stats" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.notable.contributions.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" style="max-width: 100%;"></a></td>
+<td align="center">
+</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true"><img src="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Notable Contributions" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td align="center">Achievements</td>
