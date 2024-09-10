@@ -204,9 +204,8 @@
 <td align="center">Notable Contributions</td>
 </tr>
 <tr>
-<td align="center">
-</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true"><img src="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Notable Contributions" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true"><img src="https://github-contributor-stats.vercel.app/api?username=najam015&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="GitHub Contributor Stars" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.notable.contributions.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td align="center">Achievements</td>
@@ -214,7 +213,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najam015" alt="najam015" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="najam015" /></a> </p>
 </td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.languages.activity.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.languages.activity.svg" alt="Language Activity" style="max-width: 100%;"></a></td>
 </tr>
