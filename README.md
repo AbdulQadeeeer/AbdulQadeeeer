@@ -7,7 +7,7 @@
   
   <br><br>
   
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/" rel="nofollow"><img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="profile of LinkedIn with username Anmol-Baranwal" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;"></a>
+  <a href="https://linkedin.com/in/najam015" rel="nofollow"><img src="https://camo.githubusercontent.com/ac7efb8b51819e0200381a20f786fec6c747fb736773b1dcc76591e3be873aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304130323039" alt="profile of LinkedIn with username Anmol-Baranwal" data-canonical-src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A0209" style="max-width: 100%;"></a>
   <a href="mailto:hi@anmolbaranwal.com"><img src="https://camo.githubusercontent.com/ed9175462889ad302f429741f144ae40122246b5c790e486c5ab9263192b2cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304130323039" alt="email of Anmol i.e.   hi@anmolbaranwal.com" data-canonical-src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0A0209" style="max-width: 100%;"></a>
   <a href="https://discordapp.com/users/776749637826117640" rel="nofollow"><img src="https://camo.githubusercontent.com/fb608030556aa7153f39a4912f1b6db2ad19782633e395eb69ef9d22c6dbda33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d304130323039" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" data-canonical-src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&amp;logo=discord&amp;logoColor=0A0209" style="max-width: 100%;"></a>
   <a href="https://twitter.com/Anmol_Codes" rel="nofollow"><img src="https://camo.githubusercontent.com/966d6ce3a89d5f9d61cd8c9f644b41df1b6710467e69cbdb038483c68732979e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d6435643564353f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d304130323039" alt="profile of Twitter with username Anmol_Codes" data-canonical-src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&amp;logo=x&amp;logoColor=0A0209" style="max-width: 100%;"></a>
@@ -226,7 +226,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
 </td>
 <td align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+add here
 </td>
 </tr>
 </tbody>
