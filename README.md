@@ -197,7 +197,7 @@
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.code.lines.svg"><img src="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.code.lines.svg" alt="Lines of Code &amp; Base Introduction" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.followup.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.followup.svg" alt="Follow up Issues &amp; PRs" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.followup.svg"><img src="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.followup.svg" alt="Follow up Issues &amp; PRs" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td align="center">GitHub Contributor Stars</td>
