@@ -223,10 +223,10 @@
 </tr>
 <tr>
 <td align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4 " alt="najam015" /></p>
 </td>
 <td align="center">
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=najam015&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4 " alt="najam015" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
 </td>
 </tr>
 </tbody>
