@@ -222,8 +222,12 @@
 <td align="center">Reactions</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.discussions.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.discussions.svg" alt="Discussions" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.reactions.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.reactions.svg" alt="Reactions" style="max-width: 100%;"></a></td>
+<td align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+</td>
+<td align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najam015&show_icons=true&locale=en&layout=compact" alt="najam015" /></p>
+</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
