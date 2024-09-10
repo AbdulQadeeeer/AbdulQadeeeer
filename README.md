@@ -212,7 +212,9 @@
 <td align="center">Language Activity</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.achievements.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.achievements.svg" alt="Achievements" style="max-width: 100%;"></a></td>
+<td align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najam015" alt="najam015" /></a> </p>
+</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/metrics.plugin.languages.activity.svg"><img src="/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/metrics.plugin.languages.activity.svg" alt="Language Activity" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
