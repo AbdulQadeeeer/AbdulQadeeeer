@@ -98,7 +98,7 @@
 <td align="left">✧ Featured in the Top 7 <br><br> <a href="#" rel="nofollow">😁12 things you didn't know you could do with DEV</a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="#" alt="30+ app ideas with complete source code" width="700" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/334284933-f3b13dba-4639-4d93-b4fa-8a1de92cbea0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240910T070330Z&X-Amz-Expires=300&X-Amz-Signature=721ecb5de73b09e08cbf54e2cd1c345d009f64e5e527588bf965f77ce917dbe1&X-Amz-SignedHeaders=host&actor_id=105171813&key_id=0&repo_id=515827300" alt="30+ app ideas with complete source code" width="700" style="max-width: 100%;"></a></td>
 <td align="left">✧ Reached 40k+ Views <br><br> <a href="https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76" rel="nofollow">30+ app ideas with complete source code</a></td>
 </tr>
 </tbody>
