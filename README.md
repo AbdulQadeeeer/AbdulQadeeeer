@@ -1,142 +1,265 @@
-# 👋 Hi, I'm Abdul Qadeer (qadeer015)
+# 👋 Hi, I'm Abdul Qadeer
+
+### Full-Stack Web Developer | JavaScript • Node.js • Ruby on Rails • MySQL
+
+I build **real-world web applications, business systems, APIs, and developer tools** with a focus on clean architecture, security, maintainability, and practical problem solving.
+
+I'm particularly interested in **backend development, full-stack applications, system architecture, open source, and building products that solve actual problems.**
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png" alt="Banner" style="max-width: 100%;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png" alt="Developer Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20views&color=0A0209&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20Views&color=0A0209&style=flat" alt="Profile Views">
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadeer015/)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0209?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabdulqadeer96@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0A0209?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/776749637826117640)
-[![Twitter](https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qadeer015)
-
-</div>
+<p align="center">
+  <a href="https://github.com/qadeer015">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/qadeer015/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rabdulqadeer96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0209?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discordapp.com/users/776749637826117640">
+    <img src="https://img.shields.io/badge/Discord-0A0209?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🔥 **Full-Stack Developer** from Pakistan, passionate about **Open Source** and **Technical Writing**
-📈 **Top Author** on dev.to with **30k+ followers** in 6 months
-🏆 **Top 5% GitHub Contributor** with **200+ PRs** across **40+ projects**
-🎓 **Computer Science Scholar** and **Open Source Maintainer**
+* 💻 Full-Stack Web Developer
+* 🔧 Building applications with **Node.js, Express.js, Ruby on Rails, JavaScript and MySQL**
+* 🏗️ Interested in **backend architecture, APIs, authentication, RBAC and database design**
+* 🔐 Focused on building applications with proper **security and access control**
+* ☁️ Experience with **Cloudinary, Vercel, Docker and GitHub**
+* 🎮 Experimenting with **HTML5 Canvas and browser game development**
+* 📚 Continuously learning software engineering, system design and better development practices
+* 🌱 Interested in contributing to and learning from open-source projects
 
 ---
 
-## 🏆 Key Achievements
+## 🧠 What I Actually Work With
 
-- **#11 Rank** in GSSoC'23 with **100+ PRs**
-- **Best Beginner Hack Winner** at Ingenious Hackathon 5.0
-- **Finalist** in Manthan (Ministry of Education Innovation Cell)
-- **Top 5 GitHub Community Contributor** for multiple months
-- **Open Source Maintainer** with **600+ Stars** and **2000+ PRs**
+### Backend
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat\&logo=rubyonrails\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat\&logo=ruby\&logoColor=white)
 
-## 💻 Tech Stack
+### Frontend
 
-### **Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat\&logo=ejs\&logoColor=black)
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+### Databases
 
-### **Styling & UI**
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+### Tools & Infrastructure
 
-### **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
-### **Design Tools**
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ What I Build
 
-<div align="center">
+### 🏪 Business & E-Commerce Applications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qadeer015&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qadeer015&theme=dark&hide_border=true)
+I work on applications that manage real business workflows, including:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=dark&hide_border=true)
+* Product catalogs
+* Inventory management
+* Sales and purchasing
+* Vendor payments
+* Expenses
+* User management
+* Role-based access control
+* Authentication and authorization
+* Media/file management
+* Reporting and business logic
 
-</div>
+### 🔐 Authentication & Authorization
+
+I am particularly interested in designing secure application access using:
+
+* Role-Based Access Control (RBAC)
+* Authentication
+* Authorization
+* Permission management
+* Protected routes
+* User administration
+* API security
+
+### 🎮 Web Games
+
+I also build browser games using:
+
+* HTML5 Canvas
+* JavaScript
+* Game managers
+* Rendering systems
+* Animation systems
+* Asset management
+* Audio systems
+* Level systems
+* Save systems
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Featured Projects
 
-<div align="center">
+### 🏪 IBC Tank Store
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=qadeer015&theme=darkhub&no-frame=true&row=1&column=7)
+A full-stack product/e-commerce application built around a real product catalog and business workflow.
 
-</div>
+**Tech:** Node.js • Express.js • MySQL • EJS • Cloudinary • Vercel
+
+Key areas include:
+
+* Product management
+* Product images
+* Database-driven catalog
+* Admin functionality
+* Cloud media storage
+* Production deployment
+
+---
+
+### 🧾 SalePoint
+
+A business management application designed around sales-point operations.
+
+The system deals with areas such as:
+
+* Products
+* Sales
+* Purchases
+* Vendors
+* Payments
+* Expenses
+* Employees
+* Roles & permissions
+* Business reporting
+
+**Tech:** Ruby on Rails • PostgreSQL • Redis • Sidekiq
+
+---
+
+### 🎮 Browser Game Projects
+
+I experiment with building structured browser games rather than keeping everything inside a single JavaScript file.
+
+Current architecture concepts include:
+
+```text
+Game Manager
+├── Screen Manager
+├── Renderer
+├── Asset Manager
+├── Tile Manager
+├── Animation Manager
+├── Audio Manager
+├── Level Manager
+└── Save Manager
+```
+
+The goal is to apply proper software-engineering principles even to small game projects.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qadeer015&show_icons=true&theme=dark&hide_border=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadeer015&theme=dark&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=dark&hide_border=true">
+</p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/qadeer015/qadeer015/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qadeer015/qadeer015/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
 
 ---
 
-## 📝 Recent Blog Posts
+## 🎯 Currently Improving
 
-- [Building Open Source Communities](https://dev.to/qadeer015/building-open-source-communities)
-- [Technical Writing Best Practices](https://dev.to/qadeer015/technical-writing-best-practices)
-- [Full-Stack Development Guide](https://dev.to/qadeer015/full-stack-development-guide)
+I'm currently focused on getting better at:
+
+* 🏗️ Software architecture
+* 🔐 Application security
+* 👥 RBAC and permission systems
+* 🗄️ Database design
+* 🚀 Production deployment
+* 🐳 Docker & infrastructure
+* ⚡ Backend performance
+* 🧪 Testing and code quality
+* 🔄 Git/GitHub workflows
+* 🎮 Game architecture with Canvas
+
+---
+
+## 📈 My Development Philosophy
+
+> **Don't just make it work. Understand why it works.**
+
+I prefer building systems that are:
+
+**Simple → Maintainable → Secure → Testable → Scalable**
+
+I am still learning, and that's intentional.
+
+Every project is an opportunity to understand a problem more deeply and improve the way I build software.
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+If you're interested in **web development, open source, backend engineering, software architecture, or building something useful**, feel free to connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qadeer015/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/qadeer015)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:rabdulqadeer96@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-purple?style=for-the-badge&logo=discord)](https://discordapp.com/users/776749637826117640)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/qadeer015/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:rabdulqadeer96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://twitter.com/qadeer015">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X">
+  </a>
+  <a href="https://discordapp.com/users/776749637826117640">
+    <img src="https://img.shields.io/badge/Discord-Join-purple?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30">
   <br>
-  <i>Building solutions with open source</i>
+  <i>Build. Break. Learn. Improve. Repeat.</i>
 </p>
